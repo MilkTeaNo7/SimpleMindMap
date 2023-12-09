@@ -1,0 +1,4 @@
+node_modules
+.DS_Store
+dist_electron
+simple-mind-map/dist
